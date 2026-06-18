@@ -1,4 +1,4 @@
-<h2 align="left">Hello..! <br><br>My name is Hugo and ths is my github.</h2>
+<h2 align="left">Hello..! <br><br>My name is Hugo and this is my GitHub.<br><br>I'm an app developer with a keen interest in digital marketing and cybersecurity.</h2>
 
 ###
 
@@ -77,9 +77,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugojohansson1021/Carl-Hugo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugojohansson1021/Carl-Hugo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hugojohansson1021/Carl-Hugo/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugojohansson1021/hugojohansson1021/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugojohansson1021/hugojohansson1021/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hugojohansson1021/hugojohansson1021/output/github-snake.svg" />
 </picture>
  
 
